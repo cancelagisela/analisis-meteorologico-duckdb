@@ -1,4 +1,4 @@
-Análisis de Datos Meteorológicos con DuckDB y SQL
+## Análisis de Datos Meteorológicos con DuckDB y SQL
 
 Este proyecto realiza un análisis exploratorio sobre un conjunto de datos meteorológicos utilizando **DuckDB** como motor de consultas SQL en memoria y de alto rendimiento.
 
